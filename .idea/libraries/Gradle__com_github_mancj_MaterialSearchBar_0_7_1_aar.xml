@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mancj:MaterialSearchBar:0.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53510d081f9a12b2a6d9b9f083ae89cd/jetified-MaterialSearchBar-0.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53510d081f9a12b2a6d9b9f083ae89cd/jetified-MaterialSearchBar-0.7.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53510d081f9a12b2a6d9b9f083ae89cd/jetified-MaterialSearchBar-0.7.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94ff49c267d9bc2f8498eacd45dbfdbc/jetified-MaterialSearchBar-0.7.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94ff49c267d9bc2f8498eacd45dbfdbc/jetified-MaterialSearchBar-0.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94ff49c267d9bc2f8498eacd45dbfdbc/jetified-MaterialSearchBar-0.7.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c57c1309c613a60d28d5b5dc8bd5430d/jetified-MaterialSearchBar-0.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c57c1309c613a60d28d5b5dc8bd5430d/jetified-MaterialSearchBar-0.7.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c57c1309c613a60d28d5b5dc8bd5430d/jetified-MaterialSearchBar-0.7.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mancj/MaterialSearchBar/0.7.1/f8dc02981a170df30110f362e36619150a8506f7/MaterialSearchBar-0.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mancj/MaterialSearchBar/0.7.1/50b0eadfeba906256715aaa9be116e14da1c1fae/MaterialSearchBar-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
