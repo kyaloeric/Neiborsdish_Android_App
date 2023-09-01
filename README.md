@@ -1,12 +1,16 @@
 # Neiborsdish_Android_App
 A food ordering and delivery android application coded in java, IDE android studio, Firebase DB
 
-## Installation Guide
 
+## Aim
+
+
+## Installation Guide
+'''
    - Clone repository
    - Open the Project in your android studio
    - IMPORTANT:- Change the PackageName
-
+'''
 #### Create Firebase project.
    - Connect Firebase with Android Studio.
    - Download the file google-service.json from firebase project setting and import into your project  
