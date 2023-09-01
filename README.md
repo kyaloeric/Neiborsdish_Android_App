@@ -44,3 +44,16 @@ The aim of this project, Food ordering and delivery Android Application, will be
       ./gradlew installDebug
 
 6.The app, integrated with Firebase, should now be running on your Android device or emulator.
+
+
+## Images of the app
+
+![Homescreen](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/homescreen.png)
+
+![Login](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/login.png)
+
+![PostDish](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/postdish.png)
+
+![Postingdish](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/postingdish.png)
+
+![Registration](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/registration.png)
