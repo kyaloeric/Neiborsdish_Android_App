@@ -7,7 +7,7 @@ A food ordering and delivery android application coded in java, IDE android stud
    - Open the Project in your android studio
    - IMPORTANT:- Change the PackageName
 
-## Create Firebase project.
+#### Create Firebase project.
    - Connect Firebase with Android Studio.
    - Download the file google-service.json from firebase project setting and import into your project  
    -IMPORTANT FOR NOTIFICATION:- Copy Server key from Firebase/Project Setting/cloudmessaging/ and paste it in APIService.java class
