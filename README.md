@@ -48,12 +48,12 @@ The aim of this project, Food ordering and delivery Android Application, will be
 
 ## Images of the app
 
-![Homescreen](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/homescreen.png)
+![Homescreen](app/src/imagesandroid/homescreen.png)
 
-![Login](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/login.png)
+![Login](app/src/imagesandroid/login.png)
 
-![PostDish](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/postdish.png)
+![PostDish](app/src/imagesandroid/postdish.png)
 
-![Postingdish](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/postingdish.png)
+![Postingdish](app/src/imagesandroid/postingdish.png)
 
-![Registration](/home/eric/AndroidStudioProjects/Neiborsdish_Android_App/app/src/imagesandroid/registration.png)
+![Registration](app/src/imagesandroid/registration.png)
